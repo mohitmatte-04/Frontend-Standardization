@@ -63,18 +63,19 @@ npm run test:coverage    # Test coverage
 
 ## Documentation
 
-All standardization guidelines are in the `/docs` folder:
+All standardization guidelines are in the `/docs` folder (numbered in recommended reading order):
 
-- **[Getting Started](docs/GETTING_STARTED.md)** - Introduction and setup
-- **[Installation](docs/INSTALLATION.md)** - Detailed installation guide  
-- **[Project Structure](docs/PROJECT_STRUCTURE.md)** - Code organization
-- **[Components](docs/COMPONENTS.md)** - UI component usage
-- **[Code Standards](docs/CODE_STANDARDS.md)** - Coding guidelines
-- **[Authentication](docs/AUTHENTICATION.md)** - Auth implementation
-- **[Security](docs/SECURITY.md)** - Security best practices
-- **[Testing](docs/TESTING.md)** - Testing guidelines
-- **[Deployment](docs/DEPLOYMENT.md)** - Deployment instructions
-- **[Cheat Sheet](docs/CHEAT_SHEET.md)** - Quick reference
+- **[00 - Summary](docs/00-SUMMARY.md)** - Executive summary & overview
+- **[01 - Getting Started](docs/01-GETTING_STARTED.md)** - Introduction and setup
+- **[02 - Installation](docs/02-INSTALLATION.md)** - Detailed installation guide  
+- **[03 - Project Structure](docs/03-PROJECT_STRUCTURE.md)** - Code organization
+- **[04 - Code Standards](docs/04-CODE_STANDARDS.md)** - Coding guidelines
+- **[05 - Components](docs/05-COMPONENTS.md)** - UI component usage
+- **[06 - Authentication](docs/06-AUTHENTICATION.md)** - Auth implementation
+- **[07 - Security](docs/07-SECURITY.md)** - Security best practices
+- **[08 - Testing](docs/08-TESTING.md)** - Testing guidelines
+- **[09 - Deployment](docs/09-DEPLOYMENT.md)** - Deployment instructions
+- **[10 - Cheat Sheet](docs/10-CHEAT_SHEET.md)** - Quick reference
 
 ## First Steps After Cloning
 
